@@ -1,4 +1,4 @@
- <bold>Hi , I'm Chakka Yamini 👋</bold>
+ ## Hi , I'm Chakka Yamini 👋
 
 <a href="https://www.linkedin.com/in/chakka-yamini-665257128/">
   <img align="left" alt="Sourov's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-Something About me ...
+## Something About me ...
 
 - 🔭 I’m currently working as ... Full Stack Developer
 - 🌱 I’m currently learning ... Angular <img height="20" src= "https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
