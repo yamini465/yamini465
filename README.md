@@ -34,7 +34,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/JavaScript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/php.png"></code>
-<code><img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.bitsrc.io%2F10-useful-angular-features-youve-probably-never-used-e9e33f5c35a7&psig=AOvVaw1SGw87BGkYJmOeDDf9GFqB&ust=1600757621121000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCSlf3U-esCFQAAAAAdAAAAABAD"></code>
+<code><img height="40" src="https://miro.medium.com/max/2560/1*jAwFJjRn0DYRA3fnxrR9PQ.jpeg"></code>
 
 -->
 
