@@ -20,10 +20,21 @@
 <br/>
 
 
-- 🔭 I’m currently working as ... Full-Stack Developer
-- 🌱 I’m currently learning ...MERN STACK
+- 🔭 I’m currently working as ... FullStack Developer
+- 🌱 I’m currently learning ... MERN STACK
 - 👯 I’m looking to collaborate on ... Angular
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... chakka.yamini1999@gmail.com
 - ⚡ Fun fact: ... I'm a little bit crazy :-)
+
+**Languages and Tools**
+
+<code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/react-native.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/bootstrap.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/JavaScript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/php.png"></code>
+<code><img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.bitsrc.io%2F10-useful-angular-features-youve-probably-never-used-e9e33f5c35a7&psig=AOvVaw1SGw87BGkYJmOeDDf9GFqB&ust=1600757621121000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCSlf3U-esCFQAAAAAdAAAAABAD"></code>
+
 -->
+
