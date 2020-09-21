@@ -29,12 +29,7 @@
 
 **Languages and Tools**
 
-<code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/react-native.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/bootstrap.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/JavaScript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/kikusourabh/kikusourabh/master/php.png"></code>
-<code><img height="40" src="https://miro.medium.com/max/2560/1*jAwFJjRn0DYRA3fnxrR9PQ.jpeg"></code>
+<img height="40" src="https://miro.medium.com/max/2560/1*jAwFJjRn0DYRA3fnxrR9PQ.jpeg">
 
 -->
 
