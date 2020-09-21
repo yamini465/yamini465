@@ -6,6 +6,9 @@
 <a href="https://github.com/yamini465">
   <img align="left" alt="Yamini's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://bitbucket.org/yaminichakka/">
+  <img align="left" alt="Yamini's Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />
+</a>
 <a href="https://www.instagram.com/yaminikanakarao/">
   <img align="left" alt="Yamini's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
