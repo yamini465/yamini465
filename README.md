@@ -30,6 +30,7 @@
 **Languages and Tools**
 
 <img height="40" src="https://miro.medium.com/max/2560/1*jAwFJjRn0DYRA3fnxrR9PQ.jpeg">
+<img height="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png">
 
 -->
 
