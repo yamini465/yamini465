@@ -22,6 +22,6 @@
 
 **Languages and Tools**
 
-<img height="40" src="https://cdn.auth0.com/blog/react-js/react.png">&nbsp;&nbsp;&nbsp;<img height="40" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/Copy-of-Copy-of-Travel-Photography-1.png"><img height="40" src="https://www.gstatic.com/devrel-devsite/prod/v64c332e7fa0ab8d309eebd4e65a67b6767b6e03dcedd92e7dfe181116e1230d6/firebase/images/touchicon-180.png"/><img height="40" src="https://miro.medium.com/max/4400/1*oMC83-7fB27k1tTMxDfRaQ.png">&nbsp;&nbsp;&nbsp;<img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtTypipG1fF10bEyAUlM_2KZZRmy8gPOJjYQ&usqp=CAU">&nbsp;&nbsp;
+<img height="40" src="https://cdn.auth0.com/blog/react-js/react.png">&nbsp;&nbsp;&nbsp;<img height="40" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/Copy-of-Copy-of-Travel-Photography-1.png"><img height="40" src="https://www.gstatic.com/devrel-devsite/prod/v64c332e7fa0ab8d309eebd4e65a67b6767b6e03dcedd92e7dfe181116e1230d6/firebase/images/touchicon-180.png"/>
 
 
