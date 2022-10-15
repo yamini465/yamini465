@@ -9,12 +9,6 @@
 <a href="https://bitbucket.org/yaminichakka/">
   <img align="left" alt="Yamini's Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />
 </a>
-<a href="https://www.instagram.com/yaminikanakarao/">
-  <img align="left" alt="Yamini's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/yamini.kanakarao">
-  <img align="left" alt="Yamini's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 <br/>
 <br/>
@@ -22,8 +16,8 @@
 ## Something About me ...
 
 - 🔭 I’m currently working as ... Full Stack Developer
-- 🌱 I’m currently learning ... Spring <img height="20" src= "https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
-- 📫 How to reach me: ... chakka.yamini1999@gmail.com
+- 🌱 I’m currently learning ... Angular And react <img height="20" src= "https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
+- 📫 How to reach me: ... yamini.chakka@outlook.com
 - ⚡ Fun fact: ... I'm a little bit crazy :-)
 
 **Languages and Tools**
